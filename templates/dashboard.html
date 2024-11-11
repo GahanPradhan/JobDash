@@ -305,9 +305,9 @@ document.addEventListener('DOMContentLoaded', changeQuote);
          const hours = now.getHours();
          let greeting = '';
 
-         if (hours>4 && hours < 12) {
+         if (hours>=5 && hours < 12) {
             greeting = 'Good Morning';
-         } else if (hours < 17) {
+         } else if (hours>=12 && hours < 17) {
             greeting = 'Good Afternoon';
          } else {
             greeting = 'Good Evening';
