@@ -22,10 +22,5 @@ JobDash is a powerful tool to help you track your job applications and stay on t
 ## 🛠 Installation & Setup
 To set up JobDash locally, follow these steps:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/JobDash.git
-   cd JobDash
-
 ## Link to Website
 [Job Dash](https://jobdash-8qut.onrender.com/)
